@@ -11,7 +11,7 @@ return {
 	lang = 'en',
 	antisquig = false,
 	cli_port = 4567,
-	admin = 00000000,
+	admin = 157337513,
 	admin_name = 'John Smith',
 	log_chat = nil,
 	about_text = [[
@@ -59,9 +59,9 @@ Send /help to get started.
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['157337513'] = 'You'
 		},
-		admin_group = -00000000,
+		admin_group = -315733751,
 		realm_name = 'My Realm'
 	},
 	plugins = {
